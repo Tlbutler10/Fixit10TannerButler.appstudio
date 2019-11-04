@@ -21,6 +21,14 @@
             "customerSelect", 
             "customerSelect.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "addCustomer", 
+            "addCustomer.json"
+          ]
         }
       ], 
       "configxml": null, 
